@@ -1,6 +1,9 @@
 # Cat-Feeder
 DIY Arduino-based feeder for my cats using servomotor for funnel control, LCD I2C for display, and IR Remote for input.
 
+![Img1](images/screen-1.png)
+![Img2](images/screen-2.png)
+
 ## Pinout
 - **9g Servomotor** - 9
 - **IR receiver** - 7
